@@ -1,7 +1,7 @@
 public with sharing class ArrayTasks {
     /**
  * Returns an index of the specified element in array or -1 if element is not found
- *
+ * Hello Ludmila!!!!
  * @param {array} arr
  * @param {any} value
  * @return {number}
